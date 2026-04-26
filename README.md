@@ -1,6 +1,6 @@
 # 📌 Praktikum 7 - WebGIS API dengan FastAPI & PostGIS
 
-Mata Kuliah: Sistem Informasi Geografis (SIG)  
+**Mata Kuliah: Sistem Informasi Geografis (SIG) ** 
 Nama: Nabila Yuliana  
 NIM: 123140099  
 
